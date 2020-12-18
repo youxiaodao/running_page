@@ -17,3 +17,7 @@ _site/
 /.vscode
 
 config.yaml
+*.gpx
+*.db
+.idea/
+.vscode/
